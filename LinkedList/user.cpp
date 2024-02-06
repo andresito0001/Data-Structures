@@ -1,5 +1,5 @@
 #include <iostream>
-#include "headers/GList.hpp"
+#include "GList.hpp"
 
 int main(void) {
     GList<int> mylist = { 1,2,3,4,5 };
